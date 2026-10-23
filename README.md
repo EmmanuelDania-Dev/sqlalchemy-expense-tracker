@@ -28,8 +28,6 @@ git clone https://github.com/EmmanuelDania-Dev/sqlalchemy-expense-tracker.git
 cd expense-tracker
 ```
 
-Replace `YOUR-USERNAME` with your GitHub username.
-
 ### 2. Create and activate a virtual environment
 
 ```bash
