@@ -24,7 +24,7 @@ A simple backend expense-tracking application built with Python, SQLAlchemy ORM,
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/expense-tracker.git
+git clone https://github.com/EmmanuelDania-Dev/sqlalchemy-expense-tracker.git
 cd expense-tracker
 ```
 
